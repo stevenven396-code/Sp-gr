@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "IELTS Speaking Auto-Grader",
+  "short_name": "IELTS Grader",
+  "description": "Practice IELTS Speaking assessment and feedback.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f3ff",
+  "theme_color": "#3b2fc9",
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
